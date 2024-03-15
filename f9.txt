@@ -1,4 +1,4 @@
 public void m2()
 	{
-	Sysyem.out.println("stash command");
+	Sysyem.out.println("");
 	}
